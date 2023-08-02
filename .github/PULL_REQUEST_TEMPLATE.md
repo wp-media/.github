@@ -18,7 +18,7 @@ Please delete options that are not relevant.
 
 Please describe in this section if there is any change to the groomed solution, and why.
 
-# Checklists:
+# Checklists
 
 ## Generic development checklist
 
@@ -32,9 +32,10 @@ Please describe in this section if there is any change to the groomed solution, 
 
 - [ ] I triggered all changed lines of code at least once without new errors/warnings/notices.
 - [ ] I validated all Acceptance Criteria of the related issues. (If applicable, provide proof).
-If not, detail what you could not test:
 
+If not, detail what you could not test:
 - [ ] I validated all test plan the QA Review asked me to.
+
 If not, detail what you could not test:
 
 Please describe any additional tests you performed:
