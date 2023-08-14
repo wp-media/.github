@@ -24,16 +24,14 @@ Fixes #(issue number)
 
 - [ ] My code follows the style guidelines of this project, with adapted comments and without new warnings.
 - [ ] I have added unit and integration tests that prove my fix is effective or that my feature works.
-- [ ] If applicable, I have made corresponding changes to the documentation.
 - [ ] The CI passes locally with my changes (including unit tests, integration tests, linter).
 - [ ] Any dependent changes have been merged and published in downstream modules.
+- [ ] If applicable, I have made corresponding changes to the documentation. *Provide a link to the documentation.*
 
 ## Test summary
 
 - [ ] I triggered all changed lines of code at least once without new errors/warnings/notices.
 - [ ] I validated all Acceptance Criteria of the related issues. (If applicable, provide proof).
-
-*If not, detail what you could not test.*
 - [ ] I validated all test plan the QA Review asked me to.
 
 *If not, detail what you could not test.*
