@@ -26,3 +26,6 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Acceptance Criteria (for WP Media team use only)**
+Clear instructions for developers, to be added before the grooming
