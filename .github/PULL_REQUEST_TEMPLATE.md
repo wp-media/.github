@@ -45,6 +45,6 @@ Fixes #(issue number)
 - [ ] Output messages (errors, notices, logs) are explicit enough for users to understand the issue and are actionnable.
 
 # Additional Checks
-- In the case of complex code, I wrote comments to explain it.
-- When possible, I prepared ways to observe the implemented system (logs, data, etc.).
-- I added error handling logic when using functions that could throw errors (HTTP/API request, filesystem, etc.)
+- [ ] In the case of complex code, I wrote comments to explain it.
+- [ ] When possible, I prepared ways to observe the implemented system (logs, data, etc.).
+- [ ] I added error handling logic when using functions that could throw errors (HTTP/API request, filesystem, etc.)
