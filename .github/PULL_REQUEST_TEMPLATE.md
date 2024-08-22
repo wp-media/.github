@@ -12,8 +12,6 @@ Fixes #(issue number)
 - [ ] Sub-task of #(issue number)
 - [ ] Release
 
-*Pick at least one type of change.*
-
 ## Detailed scenario
 
 *Explain how to reproduce the issue (for bugs) or how to trigger the new code. You can refer to the GitHub issue or grooming if it is still applicable.*
