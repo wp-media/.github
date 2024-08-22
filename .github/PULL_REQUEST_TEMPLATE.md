@@ -3,9 +3,6 @@
 Fixes #(issue number)
 *Explain how this code impacts users.*
 
-## Detailed scenario
-*Explain how to reproduce the issue (for bugs) or how to trigger the new code. You can refer to the GitHub issue or grooming if it is still applicable.*
-
 ## Type of change
 
 - [ ] New feature (non-breaking change which adds functionality).
@@ -14,6 +11,12 @@ Fixes #(issue number)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as before).
 - [ ] Sub-task of #(issue number)
 - [ ] Release
+
+*Pick at least one type of change.*
+
+## Detailed scenario
+
+*Explain how to reproduce the issue (for bugs) or how to trigger the new code. You can refer to the GitHub issue or grooming if it is still applicable.*
 
 ## Technical description
 
@@ -36,7 +39,6 @@ Fixes #(issue number)
 - [ ] I validated all the Acceptance Criteria. If possible, provide screenshots or videos.
 - [ ] I triggered all changed lines of code at least once without new errors/warnings/notices.
 - [ ] I implemented built-in tests to cover the new/changed code.
-
 
 ## Code style
 - [ ] I wrote a self-explanatory code about what it does.
