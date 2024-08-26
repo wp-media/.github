@@ -7,7 +7,7 @@ about: Not recommended for external contributors. Submit a User Story.
 **Context**
 *Provide contextual information about the user story: EPIC, dependencies on other issues, Slack, Notion,...*
 
-**Expected beavhior**
+**Expected behavior**
 *Detail the behaviors the product must have after this issue is tackled.*
 
 **Acceptance Criteria**
