@@ -10,6 +10,7 @@ Fixes #(issue number)
 - [ ] Enhancement (non-breaking change which improves an existing functionality).
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as before).
 - [ ] Sub-task of #(issue number)
+- [ ] Chore
 - [ ] Release
 
 ## Detailed scenario
