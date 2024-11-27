@@ -39,10 +39,15 @@ Fixes #(issue number)
 - [ ] I implemented built-in tests to cover the new/changed code.
 
 ## Code style
+
 - [ ] I wrote a self-explanatory code about what it does.
 - [ ] I protected entry points against unexpected inputs.
 - [ ] I did not introduce unnecessary complexity.
 - [ ] Output messages (errors, notices, logs) are explicit enough for users to understand the issue and are actionnable.
+
+## Unticked items justification
+
+*If some mandatory items are not relevant, explain why in this section.*
 
 # Additional Checks
 - [ ] In the case of complex code, I wrote comments to explain it.
