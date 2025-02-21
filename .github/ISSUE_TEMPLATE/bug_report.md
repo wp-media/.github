@@ -1,12 +1,11 @@
 ---
 name: Bug report
 about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
 
 ---
-
-**Before submitting an issue please check that you’ve completed the following steps:**
-- Made sure you’re on the latest version
-- Used the search feature to ensure that the bug hasn’t been reported before
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -24,8 +23,17 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
+
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
 **Additional context**
 Add any other context about the problem here.
-
-**Acceptance Criteria (for WP Media team use only)**
-Clear instructions for developers, to be added before the grooming
+s
