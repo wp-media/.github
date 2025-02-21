@@ -15,8 +15,6 @@ Fixes #(issue number)
 
 ## Detailed scenario
 
-*Explain how to reproduce the issue (for bugs) or how to trigger the new code. You can refer to the GitHub issue or grooming if it is still applicable.*
-
 ### What was tested
 
 *Describe the scenarios that you tested, and specify if it is automated or manual. For manual scenarios, provide a screenshot of the results.*
