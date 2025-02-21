@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Recommended for external requests only. Suggest an idea for this project.
 
 ---
 
