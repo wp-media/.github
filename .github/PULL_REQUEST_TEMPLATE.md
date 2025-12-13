@@ -23,6 +23,10 @@ Fixes #(issue number)
 
 *Describe how the PR can be tested so that the validator can be autonomous: environment, dependencies, specific setup, steps to perform, API requests, etc.*
 
+### Affected Features & Quality Assurance Scope
+
+*Please specify which existing features or modules are impacted by the changes in this Pull Request. This information is crucial for the QA team to properly define the testing scope and ensure comprehensive test coverage.*
+
 ## Technical description
 
 ### Documentation
